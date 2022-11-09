@@ -1,0 +1,1 @@
+{"type":"http://www.pdf-tools.com/service/rest/errors/workflow/unsupportedFormat","title":"A file format is not supported.","status":415,"detail":"Error processing 'sodapdf-converted.docx': The conversion of Office files is not supported."}
